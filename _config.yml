@@ -2,7 +2,7 @@ title:             Clean Blog
 email:             
 description:       A Blog Theme by Start Bootstrap
 author:            
-baseurl:          
+baseurl:           "/startbootstrap-clean-blog-jekyll"
 url:               "http://gildong25.github.io"
 
 # Social Profiles
